@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack web developer.<br><br>My favourite personal project is [Birdie](https://github.com/ogayanfe/birdie). It's a full stack web app built with django(rest-framework) and react(react-router). You can find a live demo [here](https://birdie.netlify.app) <br>I am currently working on [Botstore](https://github.com/ogayanfe/botstore). It's supposed to help small business manage a online store in Telegram. <br>I interesting in working collaborating in anything full-stack. <br>I currently learning golang. <br><br>Fun fact: I Love researching protocols (HTTPS, WSGI, ASGI). 
+I am a full-stack web developer.<br><br>My favourite personal project is [Birdie](https://github.com/ogayanfe/birdie). It's a full stack web app built with django(rest-framework) and react(react-router). You can find a live demo [here](https://birdie.netlify.app) <br>I am currently working on [Websandbox](https://github.com/ogayanfe/websandbox). It's an online code editor form html, css and javascript. <br>I interesting in working collaborating in anything full-stack. <br>I currently learning golang. <br><br>Fun fact: I Love researching protocols (HTTPS, WSGI, ASGI). 
 
 
 ## 🌐 Socials:
